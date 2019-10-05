@@ -1,0 +1,21 @@
+  a {
+    color: white;
+  }
+
+  #menu{
+    background-color: #120a8f;
+    border: white;    
+  }
+
+  #submenu1{
+    background-color: #0038a8;
+    border-color:  white;
+  }
+
+  #corpoDaPagina{
+    background-color: orangered;
+} 
+
+#vemPraJF {
+    font-size: large;
+}
